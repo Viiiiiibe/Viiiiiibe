@@ -1,13 +1,9 @@
-<div align="center">
-<img src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif" align="center" height="300" width="" />
-</div>  
+Hi 👋 My name is Igor
+=====================
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Igor
-============================================================================================================================
-
-### I'm Backend Developer 👨‍💻
-<br>- working since 2022 🚀
-<br>- currently coding in Python 🌱
+### I'm Backend Developer 
+<br>- working since 2022
+<br>- currently coding in Python 
 
 <br/>  
 
